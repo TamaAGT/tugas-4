@@ -17,5 +17,5 @@
   - "--platform"
   - "managed"
   - "--region"
-  - "us-centrall"
+  - "us-central1"
   - "--allow-unauthenticated"
